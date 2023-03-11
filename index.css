@@ -1,0 +1,20 @@
+body{
+background-color: rgb(103, 88, 67);
+text-decoration: none;
+    text-align: left;
+    color: white;
+
+}
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+    color: blue;
+    }
+    h2{
+
+        text-decoration: underline;
+        text-align: center;
+        color: red;
+
+    }
